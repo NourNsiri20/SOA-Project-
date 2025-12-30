@@ -1,0 +1,6 @@
+com\example\config\RestApplication.class
+com\example\util\JPAUtil.class
+com\example\model\Person.class
+com\example\resource\PersonResource.class
+com\example\db\DatabaseConnection.class
+com\example\filter\CORSFilter.class
